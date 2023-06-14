@@ -5,6 +5,9 @@
   "repository": "https://github.com/shubhaseesh/store-api.git",
   "author": "shubhaseesh <shubhaseesh09@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
